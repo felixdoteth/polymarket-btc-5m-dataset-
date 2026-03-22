@@ -1,4 +1,4 @@
-# Polymarket BTC 5-Minute Markets Dataset
+# polymarket-crypto-5m-dataset
 
 Historical resolution data for all Bitcoin Up/Down 5-minute prediction markets on Polymarket.
 
